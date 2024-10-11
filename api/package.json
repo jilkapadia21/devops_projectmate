@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
-    "build": "echo 'No build step needed for backend'",  // Added build script
+    "build": "echo 'No build step needed for backend'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
